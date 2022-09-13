@@ -1,0 +1,4 @@
+   var btc=1;
+   var dol=21000;
+   var result=prompt('Enter value in dollar:','dol');
+   alert('$:'+dol/btc+');
